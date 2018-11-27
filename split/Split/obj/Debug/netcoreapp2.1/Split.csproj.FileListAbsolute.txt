@@ -1,0 +1,11 @@
+d:\users\bran.mashabela\source\repos\Split\Split\bin\Debug\netcoreapp2.1\Split.deps.json
+d:\users\bran.mashabela\source\repos\Split\Split\bin\Debug\netcoreapp2.1\Split.runtimeconfig.json
+d:\users\bran.mashabela\source\repos\Split\Split\bin\Debug\netcoreapp2.1\Split.runtimeconfig.dev.json
+d:\users\bran.mashabela\source\repos\Split\Split\bin\Debug\netcoreapp2.1\Split.dll
+d:\users\bran.mashabela\source\repos\Split\Split\bin\Debug\netcoreapp2.1\Split.pdb
+d:\users\bran.mashabela\source\repos\Split\Split\obj\Debug\netcoreapp2.1\Split.csprojAssemblyReference.cache
+d:\users\bran.mashabela\source\repos\Split\Split\obj\Debug\netcoreapp2.1\Split.csproj.CoreCompileInputs.cache
+d:\users\bran.mashabela\source\repos\Split\Split\obj\Debug\netcoreapp2.1\Split.AssemblyInfoInputs.cache
+d:\users\bran.mashabela\source\repos\Split\Split\obj\Debug\netcoreapp2.1\Split.AssemblyInfo.cs
+d:\users\bran.mashabela\source\repos\Split\Split\obj\Debug\netcoreapp2.1\Split.dll
+d:\users\bran.mashabela\source\repos\Split\Split\obj\Debug\netcoreapp2.1\Split.pdb
